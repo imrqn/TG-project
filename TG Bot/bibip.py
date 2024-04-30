@@ -4,7 +4,7 @@ import requests
 import time
 import datetime
 
-tokken = '7159868970:AAFsm9OEogyC_JKphchr_YAfMw1hEx2iDHY'
+tokken = 'YOUR_TOCEN'
 bot = telebot.TeleBot(tokken)
 
 flag = False  # флажок для определения подписки на рассылку
